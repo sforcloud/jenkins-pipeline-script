@@ -1,7 +1,7 @@
 // Declerative Pipeline
 // agant node - where your job should be executed 
 //stages: checkout, build , Package, Deploy 
-//Commands 
+//Commands
 pipeline { 
     agent any 
     
