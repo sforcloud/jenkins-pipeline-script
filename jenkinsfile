@@ -1,3 +1,6 @@
+// Hello All this is to show you what is declerative pipeline
+// every declerative pipeline startes with pipeline 
+
 pipeline { 
     agent any 
     
